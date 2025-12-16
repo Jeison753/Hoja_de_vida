@@ -45,6 +45,11 @@ b {
     margin-bottom: 20px;
 }
 
+.foto-perfil {
+    float: left;
+    margin-right: 20px;
+}
+
 .foto-perfil img {
     width: 140px;
     height: 140px;
